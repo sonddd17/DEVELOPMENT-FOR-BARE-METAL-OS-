@@ -1,3 +1,4 @@
 kernel8.img filter=lfs diff=lfs merge=lfs -text
 image.c/ filter=lfs diff=lfs merge=lfs -text
 image.c filter=lfs diff=lfs merge=lfs -text
+*.c filter=lfs diff=lfs merge=lfs -text
