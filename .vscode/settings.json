@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "mbox.h": "c",
+        "uart1.h": "c",
+        "image.h": "c",
+        "uart0.h": "c",
+        "cmath": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
